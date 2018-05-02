@@ -14,3 +14,7 @@
 11. 编写主html布局
 12. 在CoreModule导出三个component
 13. ng server 启动工程
+## 第二话
+1. sudo cnpm i --save @angular/material@2.0.0-beta.7 安装material
+2. 在app主模块中引入SideModule
+
